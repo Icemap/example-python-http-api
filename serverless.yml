@@ -1,4 +1,5 @@
 service: example-python-http-api
+app: example-python-http-api
 
 frameworkVersion: '3'
 
