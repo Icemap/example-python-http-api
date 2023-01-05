@@ -1,4 +1,4 @@
-service: aws-python-rest-api
+service: example-python-http-api
 
 frameworkVersion: '3'
 
